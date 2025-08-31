@@ -1,0 +1,6 @@
+{
+  "server": "kubernetes",
+  "config": {
+    "kubeconfig": "/home/ryan/.kube/config"
+  }
+}
